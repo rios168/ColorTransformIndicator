@@ -6,7 +6,7 @@
 
  
 
-**使用**
+使用
 ------
 
 ```
@@ -46,3 +46,8 @@ private void setIndicator() {
 		});
 	}
 ```
+
+教程
+--
+http://blog.csdn.net/rios168/article/details/50554680
+
